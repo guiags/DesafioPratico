@@ -84,6 +84,25 @@ switch (opc)
         break;
 
     case 6:
+        Console.WriteLine("1- Formato Completo;\n2- Apenas data;\n3- Apenas hora;\n4-Mês por extenso;");
+        int timeopc = Int32.Parse(Console.ReadLine());
+        DateTime hoje = DateTime.UtcNow;
+        switch (timeopc)
+        {
+            case 1:
+                Console.WriteLine(hoje.ToString("dddd dd/MM/yyyy HH:mm:ss"));
+                break;
+            case 2:
+                Console.WriteLine(hoje.ToString("dd/MM/yyyy"));
+                break;
+            case 3:
+                Console.WriteLine(hoje.ToString("HH:mm:ss"));
+                break;
+            case 4:
+                Console.WriteLine(hoje.ToString("d MMMM yyyy")) ;
+                break;
+
+        };
 
         break;
     

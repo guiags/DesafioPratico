@@ -12,3 +12,4 @@ C:\Users\guilh\Documents\Projects\DesafioPratico\obj\Debug\net8.0\refint\Desafio
 C:\Users\guilh\Documents\Projects\DesafioPratico\obj\Debug\net8.0\DesafioPratico.pdb
 C:\Users\guilh\Documents\Projects\DesafioPratico\obj\Debug\net8.0\DesafioPratico.genruntimeconfig.cache
 C:\Users\guilh\Documents\Projects\DesafioPratico\obj\Debug\net8.0\ref\DesafioPratico.dll
+C:\Users\guilh\Documents\Projects\DesafioPratico\obj\Debug\net8.0\DesafioPratico.sourcelink.json
